@@ -19,4 +19,4 @@ social: true  # includes social icons at the bottom of the page
 <br><br>
 Hello! 
 
-Currently working on [SeaFare](https://www.seafare.io)
+Currently working on [SeaFare](https://www.seafare.io) 
