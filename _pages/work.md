@@ -2,7 +2,7 @@
 layout: page
 title: work
 permalink: /work/
-description: Some things I've worked on
+description: Some things I've worked on. Image sizing is not my specialty
 nav: true
 nav_order: 3
 # display_categories: [work, fun]
