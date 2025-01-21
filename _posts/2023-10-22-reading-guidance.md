@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Guidance for Your Reading Journey
+title:  How I Read
 date:   2023-10-22 16:40:16
-description: Guidance for Your Reading Journey
+description: How I Read
 tags: 
 categories: Reading
 ---
@@ -114,3 +114,8 @@ If you're seeking your next book and find these principles helpful in any way, h
 * **Siddhartha**
 * **A Little Life**
 * Crime and Punishment
+
+<br>
+
+**(01/20/2025) Edit: ~~"Guidance for Your Reading Journey"~~ -> "How I Read"**
+- Looking back on it, "Guidance for Your Reading Journey" sounded a bit too pretentious and seemingly implied that I know wtf I'm talking about. To be clear, I don't know; I just know what works for me. "How I Read" seemed a bit more fitting.

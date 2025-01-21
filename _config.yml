@@ -119,9 +119,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Writing
 # -----------------------------------------------------------------------------
 
-writing_name: Parker's Writing # writing_name will be displayed in your writing page
+writing_name: Writing # writing_name will be displayed in your writing page
 writing_nav_title: writing # your writing must have a title for it to be displayed in the nav bar
-writing_description: a space to share some of my thoughts and ideas
+writing_description: some thoughts and ideas
 permalink: /writing/:year/:title/
 
 # Pagination
