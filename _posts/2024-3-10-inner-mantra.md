@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Inner Mantra
-date:   2023-10-22 16:40:16
+date:   2024-03-10 16:40:16
 description: Inner Mantra
 tags: 
 categories: Peace
