@@ -14,6 +14,10 @@ Also, just a disclaimer that the following list is not all original ideas. It’
 
 <br>
 
+**Update (10/12/2025): These principles and reading list are quite out of date. Happy to chat over [email](mailto:pswanson@freemind.com) if anyone cares for an update :)**
+
+<br>
+
 
 <h5><strong>1. Do your due diligence</strong></h5>
 <br>

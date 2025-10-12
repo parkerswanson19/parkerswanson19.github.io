@@ -7,15 +7,50 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.0
 profile:
   align: right
   image: Personal_Pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   address: >
     <p> MN -> WI -> NYC </p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true
+selected_papers: true
+social: true
 ---
 
 <br><br>
-Hello! 
 
+Hello!
+
+
+<style>
+  .custom-list {
+    list-style-type: none;
+    padding-left: 0;
+  }
+
+  .custom-list li::before {
+    content: "- ";
+  }
+
+  .custom-list li {
+    margin-bottom: 6px;
+  }
+
+  .custom-sublist {
+    list-style-type: none;
+    padding-left: 20px;
+    margin-top: 4px;
+  }
+
+  .custom-sublist li::before {
+    content: "– ";
+  }
+</style>
+
+<ul class="custom-list">
+  <li>building distributed trading systems @ <a href="https://www.moment.com" target="_blank" rel="noopener">Moment</a></li>
+  <li>always reading 1 non-fiction and 1 fiction book
+    <ul class="custom-sublist">
+      <li>currently <a href="https://www.goodreads.com/book/show/369708.The_Alchemy_of_Finance" target="_blank" rel="noopener"><i>The Alchemy of Finance</i></a> and <a href="https://www.goodreads.com/book/show/333538.The_Castle" target="_blank" rel="noopener"><i>The Castle</i></a></li>
+    </ul>
+  </li>
+</ul>
