@@ -50,7 +50,7 @@ Hello!
   <li>building distributed trading systems @ <a href="https://www.moment.com" target="_blank" rel="noopener">Moment</a></li>
   <li>always reading 1 non-fiction and 1 fiction book
     <ul class="custom-sublist">
-      <li>currently <a href="https://www.goodreads.com/book/show/369708.The_Alchemy_of_Finance" target="_blank" rel="noopener"><i>The Alchemy of Finance</i></a> and <a href="https://www.goodreads.com/book/show/333538.The_Castle" target="_blank" rel="noopener"><i>The Castle</i></a></li>
+      <li>currently <a href="https://www.goodreads.com/book/show/134798.Capitalism_Socialism_and_Democracy" target="_blank" rel="noopener"><i>Capitalism, Socialism and Democracy</i></a> and <a href="https://www.goodreads.com/book/show/58045504-brideshead-revisited" target="_blank" rel="noopener"><i>Brideshead Revisited</i></a></li>
     </ul>
   </li>
 </ul>
