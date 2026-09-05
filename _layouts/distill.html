@@ -54,7 +54,7 @@
     }</script>
   </d-front-matter>
 
-  <body class="{%- if site.navbar_fixed -%}fixed-top-nav{%- endif -%} {%- unless site.footer_fixed -%}sticky-bottom-footer{%- endunless -%}">
+  <body class="{%- if site.navbar_fixed -%}fixed-top-nav{%- endif -%}">
 
     <!-- Header -->
     {%- include header.html %}
@@ -106,9 +106,6 @@
       {%- endif -%}
 
     </div>
-
-    <!-- Footer -->
-    {%- include footer.html %}
 
     {% include scripts/bootstrap.html %}
     {% include scripts/analytics.html %}
