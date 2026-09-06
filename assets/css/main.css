@@ -67,7 +67,6 @@ html[data-theme=dark] .repo-img-dark {
  * Content
  ******************************************************************************/
 body {
-  padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
 }
@@ -77,10 +76,6 @@ body h1, body h2, body h3, body h4, body h5, body h6 {
 
 body.fixed-top-nav {
   padding-top: 56px;
-}
-
-body.sticky-bottom-footer {
-  padding-bottom: 0;
 }
 
 .container {
