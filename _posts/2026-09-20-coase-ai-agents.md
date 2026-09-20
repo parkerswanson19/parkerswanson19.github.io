@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Can AI Agents Make Coase's Imaginary World Real?
+title:  On Agents and Transaction Costs
 date:   2026-09-20 13:45:00
-description: Can AI Agents Make Coase's Imaginary World Real?
+description: On Agents and Transaction Costs
 tags: economics ai agents coase
 categories: Economics
 ---
