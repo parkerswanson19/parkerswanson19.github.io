@@ -184,6 +184,35 @@ blockquote {
   color: var(--global-theme-color);
 }
 
+.note-ref {
+  color: var(--global-theme-color);
+  cursor: pointer;
+  font-size: 0.7em;
+  font-weight: 600;
+  line-height: 0;
+  margin-left: 0.08em;
+  text-decoration: none;
+}
+.note-ref:hover, .note-ref:focus {
+  color: var(--global-hover-color);
+  outline: none;
+  text-decoration: none;
+}
+
+.popover {
+  background-color: var(--global-card-bg-color);
+  border-color: var(--global-divider-color);
+  max-width: 340px;
+}
+.popover .popover-header {
+  background-color: var(--global-card-bg-color);
+  border-bottom-color: var(--global-divider-color);
+  color: var(--global-text-color);
+}
+.popover .popover-body {
+  color: var(--global-text-color);
+}
+
 .profile {
   width: 100%;
 }
