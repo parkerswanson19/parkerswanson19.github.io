@@ -3,7 +3,7 @@ layout: post
 title:  On Agents and Transaction Costs
 date:   2026-09-20 13:45:00
 description: On Agents and Transaction Costs
-tags: economics ai agents coase
+tags:
 categories: Economics
 ---
 
